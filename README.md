@@ -10,7 +10,7 @@ El proyecto implementa el estándar **ERC-8004** para crear un registro público
 En protocolos como **Aave V3**, los usuarios delegan capital en agentes de IA para automatizar tareas críticas: depositar colateral de emergencia, reestructurar deuda o ejecutar liquidaciones de alta velocidad. Sin embargo, el ecosistema carece de un registro de confianza:
 1. **Riesgo Algorítmico:** Un bug en el bot puede causar liquidaciones erróneas o pérdida de fondos sin dejar rastro de responsabilidad.
 2. **Falta de Historial Criptográfico:** No existía un método inmutable para verificar qué bots son seguros antes de delegarles capital de riesgo.
-3. **Cuellos de Botella Técnicos:** Registrar micro-calificaciones por cada operación financiera saturaría cualquier red tradicional. La ejecución paralela de **Monad** es la única que hace viable este sistema a escala global.
+3. **Cuellos de Botella Técnicos:** Registrar micro-calificaciones por cada operación financiera saturaría cualquier red tradicional. La ejecución paralela de **Monad** es la única que hace viable este sistema a escala global. 
 
 ---
 
